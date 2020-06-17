@@ -1,0 +1,4 @@
+Mnist/
+*.pdf
+convert_Minist.py
+*.csv
