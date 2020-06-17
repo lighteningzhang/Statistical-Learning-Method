@@ -1,1 +1,1 @@
-Learn some basic machine learning model
+Machine learning models
