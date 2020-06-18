@@ -1,4 +1,11 @@
 Mnist/
+<<<<<<< HEAD
 *.pdf
 convert_Minist.py
 *.csv
+=======
+Mnist/*.csv
+*.csv
+convert_Minist.py
+*.pdf
+>>>>>>> 556fce7e9db8771423c3022a9590805a2ac4eb4b
